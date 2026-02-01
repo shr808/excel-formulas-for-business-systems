@@ -29,7 +29,7 @@ Count completed marketing tasks past their deadline.
 
 **Use case:**
 
-Average score of high-performing students with good attendance.
+Average math score of high-performing students with ≤3 absences.
 
 ## Practical Scenarios
 ```
